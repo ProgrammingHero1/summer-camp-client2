@@ -19,6 +19,7 @@ function App() {
       <h1>Vite + React</h1>
       <h1>First commit</h1>
       <h1>Second commit</h1>
+      <h1>Third commit</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
